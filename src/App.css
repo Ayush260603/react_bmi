@@ -1,0 +1,49 @@
+
+body{
+    background:url("/public/background.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h2{
+    text-align: center;
+    color: white;
+}
+p{
+    text-align: center;
+    color: white;
+
+}
+.label{
+    text-align: center;
+    color: white;
+    margin-left: 36rem;
+    
+}
+.inputform{
+    width: 50%;
+    text-align: center;
+    border-radius: 10%;
+    height: 2rem;
+    margin: 1rem 20rem;
+    outline: none;
+    font-size: medium;
+}
+ 
+.btn{
+    background-color: green;
+    height: 2.5rem;
+    border-radius: 15%;
+    padding: 0.5rem 0.5rem;
+}
+.btn-submit{
+    margin-left: 36rem;
+    color: white;
+
+}
+.btn-reload{
+    margin-left: 1rem;
+    color: white;
+}
+.btn:hover{
+    background-color: darkgreen;
+}
